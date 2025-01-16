@@ -1,1 +1,1 @@
-This is for Git basics.
+These are my Git basics notes.
