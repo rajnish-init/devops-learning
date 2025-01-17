@@ -1,11 +1,24 @@
-devops-learning
+.
 ├── aws-practice
-│   └── ec2-setup-guide.md
+│   └── ec2-setup-guide.md
+├── azure-dev-associate
+│   ├── azure-vm-setup-journey.md
+│   └── VNet-workings.md
 ├── bash-scripts
-│   └── README.md
+│   └── cleanup.sh
+├── devops-learning
+│   ├── aws-practice
+│   │   └── ec2-setup-guide.md
+│   ├── bash-scripts
+│   │   └── README.md
+│   ├── git-basics
+│   │   └── notes.md
+│   └── networking-concepts
+│       └── ip-dns-basics.md
 ├── git-basics
-│   └── notes.md
-└── networking-concepts
-    └── ip-dns-basics.md
-
-5 directories, 4 files
+│   ├── error-handling-tips.md
+│   └── notes.md
+├── networking-concepts
+│   └── ip-dns-basics.md
+├── README.md
+└── structure.txt
