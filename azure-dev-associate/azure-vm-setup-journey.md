@@ -40,8 +40,9 @@ If Apache is not running, start it using:
 
 Key Takeaways
 
-    1. Port 80 is essential for HTTP traffic. Always ensure it is allowed in the VM's network security group.
-    2. Check if Apache is running. Use the sudo systemctl status apache2 command to verify its status.
-    3. Azure Bastion is a convenient way to connect to your VM. You don’t need any additional software, making it beginner-friendly.
+1. *Port 80 is essential for HTTP traffic. Always ensure it is allowed in the VM's network security group*.
+2. *Check if Apache is running. Use the sudo systemctl status apache2 command to verify its status*.
+3. *Azure Bastion is a convenient way to connect to your VM. You don’t need any additional software, making it beginner-friendly*.
+
 
 I hope this helps anyone starting with Azure Virtual Machines. Remember to double-check your network settings and service statuses to avoid common errors. Happy learning! 😊
