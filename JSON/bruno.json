@@ -1,0 +1,38 @@
+{
+    
+    "name": "Bruno", 
+    "color": "golden red", 
+    "age": 6,
+    "mood": "always in play mood", 
+    "favoriteActivities": [ 
+      "fetch",
+      "running randomly",
+      "chewing everything he gets",
+      "barks at every dog in sight, except the ladies"
+    ],
+    "diet": { 
+      "food": "anything sweet ", 
+      "treats": ["all homemade sweet things", "chicken jerky"], 
+      "mealsPerDay": "24*7"
+    },
+    "health": { 
+      "vaccinated": true, 
+      "lastVetVisit": "escapes everytime", 
+      "weight": "16 kg" 
+    },
+    "toys": [ 
+      {
+        "name": "it's anything but round",
+        "condition": "not in ball shape" 
+      },
+      {
+        "name": "Rope Tug",
+        "condition": "Once a rope, now just a memory"
+      }
+    ],
+    "schedule": { 
+      "morning": "walk, devour food, chaos",
+      "afternoon": "nap, refuel, more chaos",
+      "evening": "dinner, extra play, world domination (then sleep)"
+    }
+  }
