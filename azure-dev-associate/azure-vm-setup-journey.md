@@ -34,7 +34,11 @@ Forgetting to Allow **HTTP** (Port 80)
 
               sudo systemctl status apache2
 
-If Apache is not running, start it using:
+If Apache is not running, install it using:
+              
+              sudo apt-get install apache2
+
+Still showing inactive, start it using:
 
               sudo systemctl start apache2
 
